@@ -5,7 +5,7 @@ import android.os.Bundle
 import android.widget.TextView
 
 class ResultadoActivity : AppCompatActivity() {
-
+    //Declaração
     lateinit var textPeso: TextView
     lateinit var textAltura: TextView
     lateinit var textResultado: TextView
